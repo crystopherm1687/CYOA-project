@@ -5,4 +5,4 @@ Using your current knowledge you help everyone rebuild and the world is now safe
 
 
 
-[Play Again?](README.md)
+[Play Again?](../README.md)

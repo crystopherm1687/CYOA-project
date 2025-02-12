@@ -7,4 +7,4 @@ Knowing this information you continue on with the battle and eventually stop the
 
 You have now Won the war.
 
-[Play Again?](README.md)
+[Play Again?](../README.md)
