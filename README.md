@@ -12,7 +12,7 @@ You are now in a Skibidi Toilet apocalypse. How will you survive this event with
 
 ### More Info
 <p>Credits:</p>
-<p>Crystopher-https://github.com/crystopherm1687</p>
-<p>Bekhruz-https://github.com/bekhruza2004</p>
+<p><a href="https://github.com/crystopherm1687">Crystopher</a></p>
+<p><a href="https://github.com/bekhruza2004">Bekhruz</a></p>
 
 (https://docs.google.com/drawings/d/1ItoEqun2rO30ALQ_fyaH3XMxZSJV8-MJP50twV9Gq9w/edit) Google Drawing
