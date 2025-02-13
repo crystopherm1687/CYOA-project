@@ -1,7 +1,7 @@
 # Invasion of the Skibidi Toilets
 You are now in a Skibidi Toilet apocalypse. How will you survive this event with the toilets roaming around.
 
-[You are sacred and want to run away.](skibidi/hide.md)
+[You are scared and want to run away.](skibidi/hide.md)
 
 [You want to walk around.](skibidi/connfront.md)
 
